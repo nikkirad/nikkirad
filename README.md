@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello!
+- 🙋🏻‍♀️ I'm Nikki Rad
+- 🇮🇷I'm a first generation, Iranian American student
+- 👩🏻 My pronouns are She/Her
+- 🎓I'm a Junior Computer Science major and Statistics minor at Texas A&M University
+- 👩🏻‍💻 I'm currently taking courses in Machine Learning and Software Development/Engineering
+- 🤍My personal interests and hobbies include Formula 1 🏎, singing/songwriting 🎤, and reviewing films on Letterboxd 🎥
+- 💬You can reach me at [linkedin.com/in/nikkirad](https://www.linkedin.com/in/nikkirad/)
+- "Aggies do not lie, cheat, steal, or tolerate those who do."
+
+
+
 
 <!--
 **nikkirad/nikkirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
