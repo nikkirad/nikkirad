@@ -1,6 +1,6 @@
 ### Hello!
 - 🙋🏻‍♀️ I'm Nikki Rad (She/Her)
-- 🇮🇷I'm a first generation, Iranian American student
+- 🇮🇷I'm a second generation, Iranian-American student
 - 🎓I'm a Junior Computer Science major and Statistics minor at Texas A&M University
 - 🖥 I'm currently taking courses in Machine Learning and Software Development/Engineering
 - 👩🏻‍💻 I'm also currently an intern at HPE working on the Chapel team. You can see my work [here](https://github.com/nikkirad/chapel)
