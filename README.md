@@ -3,7 +3,7 @@
 - 🇮🇷I'm a second generation, Iranian-American student
 - 🎓I'm a Junior Computer Science major and Statistics minor at Texas A&M University
 - 🖥 I'm currently taking courses in Machine Learning and Computer Systems
-- 👩🏻‍💻 I recently completed my internship at HPE working on the Chapel team implementing a keyword in the compiler. You can see my work [here](https://github.com/nikkirad/chapel)
+- 👩🏻‍💻 I recently completed my internship at HPE working on the Chapel team implementing a keyword in the compiler. You can see my work [here](https://github.com/chapel-lang/chapel)
 - 🤍My personal interests and hobbies include Formula 1 🏎, singing/songwriting 🎤, trivia 🧩, and reviewing films on Letterboxd 🎥
 - 💬You can reach me on [LinkedIn](https://www.linkedin.com/in/nikki-rad/)
 - "An Aggie does not lie, cheat or steal or tolerate those who do."
